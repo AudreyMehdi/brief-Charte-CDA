@@ -12,11 +12,15 @@
   box-sizing: border-box;
 }
 
-    .eleven.columns{
-        background-color: aqua;
-    }
+.eight.columns {
+  background-color: aqua;
+}
 
-.bou {
+.four.columns.columns {
+  background-color: rgb(234, 0, 255);
+}
+
+.row {
   background-color: blueviolet;
 }
 
