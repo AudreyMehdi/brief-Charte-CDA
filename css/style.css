@@ -12,9 +12,9 @@
   box-sizing: border-box;
 }
 
-.six columns {
-  background-color: aqua;
-}
+    .eleven.columns{
+        background-color: aqua;
+    }
 
 .bou {
   background-color: blueviolet;
