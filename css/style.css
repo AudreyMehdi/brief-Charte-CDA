@@ -32,7 +32,7 @@ padding-bottom: 1px;}
   margin: auto;
   display: flex;
 }
-
+    
 ul {
   list-style-image: url("/images/bullet.png");
 }
