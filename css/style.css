@@ -7,3 +7,10 @@
   width:100%;
   z-index: 1;
 }
+.case{
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+  padding-left: 20px;
+  padding-bottom: 1px;
+}
