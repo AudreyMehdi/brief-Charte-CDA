@@ -20,6 +20,14 @@
   color: white;
 }
 
+.github {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 35%;
+  text-align: center;
+}
+
 ul {
   list-style-image: url("/images/bullet.png");
 }
