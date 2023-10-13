@@ -35,17 +35,12 @@
 }
 
 .github {
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  width: auto;
-  max-width: 35%;
-  text-align: center;
+  text-align: right;
 }
 
-@media (min-width: 400px) {
-  .github
-  margin: 0px 0px 20px;
+@media (max-width: 400px) {
+  .github {
+    text-align: center;
   }
 }
 ul {
