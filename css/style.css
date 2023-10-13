@@ -42,7 +42,5 @@ padding-bottom: 1px;}
 }
     
 ul {
-  list-style-image: url("/images/bullet.png");
+  list-style-image: url("../images/bullet.png");
 }
-
-
