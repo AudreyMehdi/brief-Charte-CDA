@@ -4,6 +4,10 @@
   border-radius: 10px;
   box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
   position: fixed;
-  width:100%;
+  width: 100%;
   z-index: 1;
+}
+.button {
+  background-color: rgb(176, 14, 14);
+  color: white;
 }
