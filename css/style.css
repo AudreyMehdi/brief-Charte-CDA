@@ -13,8 +13,12 @@
   box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
   padding-left: 20px;
   padding-bottom: 1px;}
-  
+
 .button {
   background-color: rgb(176, 14, 14);
   color: white;
+}
+
+ul {
+  list-style-image: url("/images/bullet.png");
 }
