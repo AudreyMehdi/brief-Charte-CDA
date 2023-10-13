@@ -32,9 +32,9 @@
   box-sizing: border-box;
 }
 
-    .eleven.columns{
-        background-color: aqua;
-    }
+.eight.columns {
+  background-color: aqua;
+}
 
 .row {
   background-color: blueviolet;
