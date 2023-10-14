@@ -46,3 +46,14 @@
 ul {
   list-style-image: url("./../images/bullet.png");
 }
+.accordion-head,
+.accordion-inner,
+.accordion-content {
+  overflow: hidden;
+} /* masque les débordement de contenus */
+.accordion-inner {
+  transition: height 1s;
+} /* applique l'animation de plier / déplier */
+.accordion-binded .accordion-inner {
+  height: 0;
+} /* plie les contenus dès que le script a été chargé */
